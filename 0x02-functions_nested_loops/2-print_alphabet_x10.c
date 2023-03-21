@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
-  *main - entry point
-  *Description: 'a function that prints 10 times the alphabet, in lowercase'
-  *Return: always 0
+  *print_alphabet_x10 - make alphabet x10 times
+  *Return: void
   */
 void print_alphabet_x10(void)
 {
