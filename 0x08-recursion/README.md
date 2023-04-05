@@ -1,1 +1,1 @@
-4-pow_recursion.c
+6-is_prime_number.c
